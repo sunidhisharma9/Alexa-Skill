@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "prime learn",
+            "invocationName": "NEPS",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
@@ -16,14 +16,14 @@
                     "samples": []
                 },
                 {
-                    "name": "whatismathfun",
+                    "name": "whatisNEPS",
                     "slots": [],
                     "samples": [
-                        "maths fun",
-                        "tell me prime fun",
-                        "prime fun",
-                        "math fun",
-                        "tell me math fun"
+                        "tell me",
+                        "tell me about neps",
+                        "tell me about neps infrastructure",
+                        "new era public school",
+                       
                     ]
                 }
             ],
