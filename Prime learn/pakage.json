@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "NEPS",
+            "invocationName": "neps",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
